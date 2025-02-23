@@ -13,14 +13,14 @@
 
 - **Vampyr** [FPS and High Core Count Cpu Crash Fix]
 
-Play game first then edit engine.ini for the game and add this to end of file:
+1. Play game first then edit engine.ini for the game and add this to end of file:
 
 ```
 [/script/engine.engine]
 bSmoothFrameRate=false
 ```
 
-Environment Variable:
+2. Environment Variable:
 ```
 PROTON_CPU_TOPOLOGY=8
 ```
