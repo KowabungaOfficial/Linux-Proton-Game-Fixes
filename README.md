@@ -1,8 +1,19 @@
 # Linux Game Fix Index
 
+> [!IMPORTANT] 
+> **Config File Locations Are As Listed**
+> 
+> _Heroic Config Location (For Stuff like Engine.ini etc):_
+>
+> `/home/"YOUR USERNAME GOES HERE"/Games/Heroic/Prefixes/default/"Name Of Game"/pfx/drive_c/users/steamuser/`
+>
+> _Steam Config Location (For Stuff like Engine.ini etc):_
+>
+> `/SteamLibrary/steamapps/compatdata/"The Games ID Number"/pfx/drive_c/users/steamuser/`
+
 - **Vampyr** [FPS and High Core Count Cpu Crash Fix]
 
-Edit the engine.ini file for the game and add this to end of file:
+Play game first then edit engine.ini for the game and add this to end of file:
 
 ```
 [/script/engine.engine]
