@@ -9,7 +9,7 @@ Edit the engine.ini file for the game and add this to end of file:
 bSmoothFrameRate=false
 ```
 
-Environment Variable
+Environment Variable:
 ```
 PROTON_CPU_TOPOLOGY=8
 ```
