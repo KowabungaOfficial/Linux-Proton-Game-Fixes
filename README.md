@@ -20,7 +20,7 @@
 bSmoothFrameRate=false
 ```
 
-2. Environment Variable (For Heroic/Lutris/Steam):
+2. Environment Variable (Can Be Used For Heroic/Lutris/Steam):
 ```
 PROTON_CPU_TOPOLOGY=8
 ```
