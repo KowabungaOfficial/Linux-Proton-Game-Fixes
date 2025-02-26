@@ -123,7 +123,7 @@ PROTON_CPU_TOPOLOGY=8
 
 | Negative Values | 0 Value |
 |--------|-------|
-| ![Before](https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/blob/main/QOLPictures/mnsvleesbsckinfte.jpg) | ![After](https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/blob/main/QOLPictures/zerobshckifinte.jpg) |
+| ![Before](https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/blob/main/QOLPictures/mnsvleesbsckinfte1.jpg) | ![After](https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/blob/main/QOLPictures/zerobshckifinte1.jpg) |
 
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
 
