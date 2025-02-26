@@ -86,6 +86,13 @@ PROTON_CPU_TOPOLOGY=4
 ```
 PROTON_CPU_TOPOLOGY=8
 ```
+---------------------------------------------------------------
+### Mass Effect Legendary Edition [QOL, and Game Fix]
+1. Add Game Arguments: `-NoHomeDir -SeekFreeLoadingPCConsole`
+
+2. Play with "MassEffectLauncher.exe"
+
+3. (Not Required, but can fix issues) If using another version of game make sure to "add game" and "run installer first" to install the game.
 
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
 
