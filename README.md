@@ -54,13 +54,14 @@ PROTON_CPU_TOPOLOGY=8
 ----------------------------------------------------------------
 ### Ultimate Spider-Man [FPS, FOV, PS5 Control Scheme, and Widescreen Fix]
 
-1. Download and Drag Contents to game folder: https://github.com/ThirteenAG/WidescreenFixesPack/releases
+1. Download & Drag Contents to game folder: https://github.com/ThirteenAG/WidescreenFixesPack/releases
+<a href="https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/releases/download/GameModBackups/UltimateSpiderManWidescreenFixModBackup.tar.gz">`(Backup)`</a>
 
-2. Play game in Heroic or Lutris, change settings to what you prefer then exit game
+4. Play game in Heroic or Lutris, change settings to what you prefer then exit game
 
-3. Then edit "UltimateSpiderMan.WidescreenFix.ini" to your liking
+5. Then edit "UltimateSpiderMan.WidescreenFix.ini" to your liking
 
-4. Use winetricks to include dsound (For heroic you right click game, then under wine section click winetricks)
+6. Use winetricks to include dsound (For heroic you right click game, then under wine section click winetricks)
 
 
 Control Scheme For PS5 Dualsense Controller:
