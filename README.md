@@ -11,7 +11,7 @@
 >
 > `/SteamLibrary/steamapps/compatdata/"The Games ID Number"/pfx/drive_c/users/steamuser/`
 
-### Vampyr [FPS, QOL, and High Core Count Cpu Crash Fix]
+### Vampyr [FPS, QOL, and High Core Count CPU Crash Fix]
 
 1. Play game first then exit, then edit "engine.ini" for the game and add this to end of file:
 
