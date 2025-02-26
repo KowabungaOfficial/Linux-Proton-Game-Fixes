@@ -121,11 +121,11 @@ PROTON_CPU_TOPOLOGY=8
 
 1. In Goverlay in the Performance tab make sure "Mip-map LoD bias" is at "0" (Keep it that way for all games as well)
 
-- ### (Worst) Mip-map LoD bias (Negative Values)
-<img style="width: 640px; height: 480px;" src="https://kowabungaofficial.github.io/Linux-Game-Fix-Index/QOLPictures/mnsvleesbsckinfte.jpg">
+(Worst) Mip-map LoD bias (Negative Values)
+<img src="https://kowabungaofficial.github.io/Linux-Game-Fix-Index/QOLPictures/mnsvleesbsckinfte.jpg">
 
-- ### (Best) Mip-map LoD bias (At 0)
-<img style="width: 640px; height: 480px;" src="https://kowabungaofficial.github.io/Linux-Game-Fix-Index/QOLPictures/zerobshckifinte.jpg">
+(Best) Mip-map LoD bias (At 0)
+<img src="https://kowabungaofficial.github.io/Linux-Game-Fix-Index/QOLPictures/zerobshckifinte.jpg">
 
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
 
