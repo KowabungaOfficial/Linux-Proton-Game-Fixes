@@ -52,7 +52,7 @@ AspectRatioAxisConstraint=AspectRatio_MaintainYFOV
 PROTON_CPU_TOPOLOGY=8
 ```
 ----------------------------------------------------------------
-- **Ultimate Spider-Man** [FPS, FOV, Widescreen Fix]
+- **Ultimate Spider-Man** [FPS, FOV, PS5 Control Scheme, and Widescreen Fix]
 
 1. Download and Drag Contents to game folder: https://github.com/ThirteenAG/WidescreenFixesPack/releases
 
@@ -62,6 +62,10 @@ PROTON_CPU_TOPOLOGY=8
 
 4. Use winetricks to include dsound (For heroic you right click game, then under wine section click winetricks)
 
+
+Control Scheme For PS5 Dualsense Controller:
+
+<img style="width: 450px; height: 298px;" src="https://kowabungaofficial.github.io/Linux-Game-Fix-Index/QOLPictures/UltimateSpider-Man_PS5ControllerScheme.png">
 
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
 
