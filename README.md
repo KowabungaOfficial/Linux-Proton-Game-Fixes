@@ -93,6 +93,21 @@ PROTON_CPU_TOPOLOGY=8
 2. Play with "MassEffectLauncher.exe"
 
 3. (Not Required, but can fix issues) If using another version of game make sure to "add game" and "run installer first" to install the game.
+---------------------------------------------------------------
+### The Beginners Guide [High Core Count CPU Crash Fix]
+
+1. Environment Variable _(Can Be Used For Heroic/Lutris/Steam)_:
+```
+PROTON_CPU_TOPOLOGY=4
+```
+---------------------------------------------------------------
+### The Stanley Parable [High Core Count CPU Crash Fix, and Game Fix]
+
+1. Environment Variable _(Can Be Used For Heroic/Lutris/Steam)_:
+```
+PROTON_CPU_TOPOLOGY=8
+```
+2. If you have a folder named "thestanleyparable" in your game folder rename it to "stanley"
 
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
 
