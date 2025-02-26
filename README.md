@@ -108,6 +108,18 @@ PROTON_CPU_TOPOLOGY=4
 PROTON_CPU_TOPOLOGY=8
 ```
 2. If you have a folder named "thestanleyparable" in your game folder rename it to "stanley"
+---------------------------------------------------------------
+### Bioshock Remastered [Blurry Texture Fix]
+
+1. Disable fsync and esync for game in heroic/lutris.
+---------------------------------------------------------------
+### Bioshock 2 Remastered [Blurry Texture Fix]
+
+1. Disable fsync and esync for game in heroic/lutris.
+---------------------------------------------------------------
+### Bioshock Infinite [Blurry Texture Caused By Goverlay Bug Fix]
+
+1. In Goverlay in the Performance tab make sure "Mip-map LoD bias" is at "0" (Keep it that way for all games as well)
 
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
 
