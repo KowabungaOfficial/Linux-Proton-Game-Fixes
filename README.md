@@ -57,11 +57,11 @@ PROTON_CPU_TOPOLOGY=8
 1. Download & Drag Contents to game folder: https://github.com/ThirteenAG/WidescreenFixesPack/releases
 <a href="https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/releases/download/GameModBackups/UltimateSpiderManWidescreenFixModBackup.tar.gz">`(Backup)`</a>
 
-4. Play game in Heroic or Lutris, change settings to what you prefer then exit game
+2. Play game in Heroic or Lutris, change settings to what you prefer then exit game
 
-5. Then edit "UltimateSpiderMan.WidescreenFix.ini" to your liking
+3. Then edit "UltimateSpiderMan.WidescreenFix.ini" to your liking
 
-6. Use winetricks to include dsound (For heroic you right click game, then under wine section click winetricks)
+4. Use winetricks to include dsound (For heroic you right click game, then under wine section click winetricks)
 
 
 Control Scheme For PS5 Dualsense Controller:
@@ -78,10 +78,11 @@ PROTON_CPU_TOPOLOGY=4
 ---------------------------------------------------------------
 ### Far Cry 4 [Weapon FOV, and High Core Count CPU Crash Fix]
 1. Download: https://www.nexusmods.com/farcry4/mods/61?tab=files&file_id=261
+<a href="https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/releases/download/GameModBackups/FarCry4ModBackup.tar.gz">`(Backup)`</a>
 
-3. Drag and Drop patch_hd.dat and patch_hd.fat into "data_win32" folder
+2. Drag and Drop patch_hd.dat and patch_hd.fat into "data_win32" folder
 
-4. Environment Variable _(Can Be Used For Heroic/Lutris/Steam)_:
+3. Environment Variable _(Can Be Used For Heroic/Lutris/Steam)_:
 ```
 PROTON_CPU_TOPOLOGY=8
 ```
