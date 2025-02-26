@@ -51,6 +51,17 @@ AspectRatioAxisConstraint=AspectRatio_MaintainYFOV
 ```
 PROTON_CPU_TOPOLOGY=8
 ```
+----------------------------------------------------------------
+- **Ultimate Spider-Man** [FPS, FOV, Widescreen Fix]
+
+1. Download and Drag Contents to game folder: https://github.com/ThirteenAG/WidescreenFixesPack/releases
+
+2. Play game in Heroic or Lutris, change settings to what you prefer then exit game
+
+3. Then edit "UltimateSpiderMan.WidescreenFix.ini" to your liking
+
+4. Use winetricks to include dsound (For heroic you right click game, then under wine section click winetricks)
+
 
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
 
