@@ -67,7 +67,20 @@ Control Scheme For PS5 Dualsense Controller:
 
 <img style="width: 450px; height: 298px;" src="https://kowabungaofficial.github.io/Linux-Game-Fix-Index/QOLPictures/UltimateSpider-Man_PS5ControllerScheme.png">
 
+---------------------------------------------------------------
+### Far Cry 3 [High Core Count CPU Crash Fix]
 
+1. Environment Variable _(Can Be Used For Heroic/Lutris/Steam)_:
+```
+PROTON_CPU_TOPOLOGY=4
+```
+---------------------------------------------------------------
+### Far Cry 4 [Weapon FOV, and High Core Count CPU Crash Fix]
+
+1. Environment Variable _(Can Be Used For Heroic/Lutris/Steam)_:
+```
+PROTON_CPU_TOPOLOGY=8
+```
 
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
 
