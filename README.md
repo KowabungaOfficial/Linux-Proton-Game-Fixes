@@ -76,8 +76,11 @@ PROTON_CPU_TOPOLOGY=4
 ```
 ---------------------------------------------------------------
 ### Far Cry 4 [Weapon FOV, and High Core Count CPU Crash Fix]
+1. Download: https://www.nexusmods.com/farcry4/mods/61?tab=files&file_id=261
 
-1. Environment Variable _(Can Be Used For Heroic/Lutris/Steam)_:
+3. Drag and Drop patch_hd.dat and patch_hd.fat into "data_win32" folder
+
+4. Environment Variable _(Can Be Used For Heroic/Lutris/Steam)_:
 ```
 PROTON_CPU_TOPOLOGY=8
 ```
