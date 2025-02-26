@@ -54,7 +54,7 @@ PROTON_CPU_TOPOLOGY=8
 ----------------------------------------------------------------
 ### Ultimate Spider-Man [FPS, FOV, PS5 Control Scheme, and Widescreen Fix]
 
-1. Download & Drag Contents to game folder: https://github.com/ThirteenAG/WidescreenFixesPack/releases
+1. Download & Drag Contents to game folder: <a href="https://github.com/ThirteenAG/WidescreenFixesPack/releases">ThirteenAG Widescreen Fix Mod</a>
 <a href="https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/releases/download/GameModBackups/UltimateSpiderManWidescreenFixModBackup.tar.gz">`(Backup)`</a>
 
 2. Play game in Heroic or Lutris, change settings to what you prefer then exit game
@@ -76,8 +76,8 @@ Control Scheme For PS5 Dualsense Controller:
 PROTON_CPU_TOPOLOGY=4
 ```
 ---------------------------------------------------------------
-### Far Cry 4 [Weapon FOV, and High Core Count CPU Crash Fix]
-1. Download: https://www.nexusmods.com/farcry4/mods/61?tab=files&file_id=261
+### Far Cry 4 [Viewmodel FOV, and High Core Count CPU Crash Fix]
+1. Download: <a href="https://www.nexusmods.com/farcry4/mods/61?tab=files&file_id=261">Schrotflinte12 Viewmodel Fov Mod</a>
 <a href="https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/releases/download/GameModBackups/FarCry4ModBackup.tar.gz">`(Backup)`</a>
 
 2. Drag and Drop patch_hd.dat and patch_hd.fat into "data_win32" folder
