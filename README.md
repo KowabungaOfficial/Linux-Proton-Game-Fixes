@@ -121,7 +121,9 @@ PROTON_CPU_TOPOLOGY=8
 
 1. In Goverlay go to the Performance tab set "Mip-map LoD bias" to "0" (Keep at 0 for all games as well) <a href="https://github.com/doitsujin/dxvk/issues/4571">`Mentioned Here`</a>
 
-| Negative Values | 0 Value |
+- To See Difference Look At The Hat On The Coat Hanger
+
+| Negative Value | (0) Positive Value |
 |--------|-------|
 | ![Before](https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/blob/main/QOLPictures/mnsvleesbsckinfte1.jpg) | ![After](https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/blob/main/QOLPictures/zerobshckifinte1.jpg) |
 
