@@ -11,7 +11,7 @@
 >
 > `/SteamLibrary/steamapps/compatdata/"The Games ID Number"/pfx/drive_c/users/steamuser/`
 
-- **Vampyr** [FPS, QOL, and High Core Count Cpu Crash Fix]
+### Vampyr [FPS, QOL, and High Core Count Cpu Crash Fix]
 
 1. Play game first then exit, then edit "engine.ini" for the game and add this to end of file:
 
@@ -52,7 +52,7 @@ AspectRatioAxisConstraint=AspectRatio_MaintainYFOV
 PROTON_CPU_TOPOLOGY=8
 ```
 ----------------------------------------------------------------
-- **Ultimate Spider-Man** [FPS, FOV, PS5 Control Scheme, and Widescreen Fix]
+### Ultimate Spider-Man [FPS, FOV, PS5 Control Scheme, and Widescreen Fix]
 
 1. Download and Drag Contents to game folder: https://github.com/ThirteenAG/WidescreenFixesPack/releases
 
@@ -66,6 +66,8 @@ PROTON_CPU_TOPOLOGY=8
 Control Scheme For PS5 Dualsense Controller:
 
 <img style="width: 450px; height: 298px;" src="https://kowabungaofficial.github.io/Linux-Game-Fix-Index/QOLPictures/UltimateSpider-Man_PS5ControllerScheme.png">
+
+
 
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
 
