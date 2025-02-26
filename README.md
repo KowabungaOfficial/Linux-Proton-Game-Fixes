@@ -117,15 +117,13 @@ PROTON_CPU_TOPOLOGY=8
 
 1. Disable fsync and esync for game in heroic/lutris.
 ---------------------------------------------------------------
-### Bioshock Infinite [Blurry Texture Caused By Goverlay Bug Fix]
+### Bioshock Infinite [Blurry Texture Caused By Goverlay Bug Fix] 
 
-1. In Goverlay in the Performance tab make sure "Mip-map LoD bias" is at "0" (Keep it that way for all games as well)
+1. In Goverlay go to the Performance tab set "Mip-map LoD bias" to "0" (Keep at 0 for all games as well) <a href="https://github.com/doitsujin/dxvk/issues/4571">`Mentioned Here`</a>
 
-(Worst) Mip-map LoD bias (Negative Values)
-<img src="https://kowabungaofficial.github.io/Linux-Game-Fix-Index/QOLPictures/mnsvleesbsckinfte.jpg">
-
-(Best) Mip-map LoD bias (At 0)
-<img src="https://kowabungaofficial.github.io/Linux-Game-Fix-Index/QOLPictures/zerobshckifinte.jpg">
+| Negative Values | 0 Value |
+|--------|-------|
+| ![Before](https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/blob/main/QOLPictures/mnsvleesbsckinfte.jpg) | ![After](https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/blob/main/QOLPictures/zerobshckifinte.jpg) |
 
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
 
