@@ -127,6 +127,13 @@ PROTON_CPU_TOPOLOGY=8
 |--------|-------|
 | ![Before](https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/blob/main/QOLPictures/mnsvleesbsckinfte1.jpg) | ![After](https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/blob/main/QOLPictures/zerobshckifinte1.jpg) |
 
+---------------------------------------------------------------
+### Spider-Man: Web Of Shadows [Crash Fix]
+
+1. Use winetricks to include msxml3, msxml6, and vcrun2005 (For heroic you right click game, then under wine section click winetricks)
+
+---------------------------------------------------------------
+
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
 
 Fixes\QOL Improvements For Windows Games on Linux. FPS Fixes, FOV Fixes, Post Processing Removal etc.
