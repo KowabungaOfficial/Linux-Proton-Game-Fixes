@@ -1,4 +1,4 @@
-# Linux Game Fix Index
+# Linux Proton Game Fixes
 
 > [!IMPORTANT] 
 > **Config File Locations Are As Listed**
