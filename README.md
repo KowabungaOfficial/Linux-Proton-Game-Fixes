@@ -143,8 +143,11 @@ PROTON_CPU_TOPOLOGY=8
 ---------------------------------------------------------------
 ### Spider-Man: Web Of Shadows [Crash Fix and FPS Fix]
 
-1. Use winetricks to include msxml3, msxml6, and vcrun2005 (For heroic you right click game, then under wine section click winetricks)
-2. Environment Variable _(Can Be Used For Heroic/Lutris/Steam)_:
+1. Use winetricks to include msxml3, msxml6, and vcrun2005
+
+(For heroic you right click game, then under wine section click winetricks)
+
+3. Environment Variable _(Can Be Used For Heroic/Lutris/Steam)_:
 ```
 PROTON_CPU_TOPOLOGY=4
 ```
