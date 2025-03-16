@@ -11,7 +11,7 @@
 > 
 > Steam Config Location (For Stuff like Engine.ini etc):
 >
-> `/SteamLibrary/steamapps/compatdata/"The Games ID Number"/pfx/drive_c/users/steamuser/`
+> `/SteamLibrary/steamapps/compatdata/"THE GAMES ID NUMBER GOES HERE"/pfx/drive_c/users/steamuser/`
 </details>
 
 > [!IMPORTANT]
