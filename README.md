@@ -79,7 +79,7 @@ PROTON_CPU_TOPOLOGY=8
 
 Control Scheme For PS5 Dualsense Controller:
 
-<img style="width: 450px; height: 298px;" src="https://kowabungaofficial.github.io/Linux-Game-Fix-Index/QOLPictures/UltimateSpider-Man_PS5ControllerScheme.png">
+<img style="width: 450px; height: 298px;" src="https://kowabungaofficial.github.io/Linux-Proton-Game-Fixes/QOLPictures/UltimateSpider-Man_PS5ControllerScheme.png">
 
 ---------------------------------------------------------------
 ### Far Cry 3 [High Core Count CPU Crash Fix]
@@ -91,7 +91,7 @@ PROTON_CPU_TOPOLOGY=4
 ---------------------------------------------------------------
 ### Far Cry 4 [Viewmodel FOV, and High Core Count CPU Crash Fix]
 1. Download: <a href="https://www.nexusmods.com/farcry4/mods/61?tab=files&file_id=261">Schrotflinte12 Viewmodel Fov Mod</a>
-<a href="https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/releases/download/GameModBackups/FarCry4ModBackup.tar.gz">`(Backup)`</a>
+<a href="https://github.com/KowabungaOfficial/Linux-Proton-Game-Fixes/releases/download/GameModBackups/FarCry4ModBackup.tar.gz">`(Backup)`</a>
 
 2. Drag and Drop patch_hd.dat and patch_hd.fat into "data_win32" folder
 
@@ -138,7 +138,7 @@ PROTON_CPU_TOPOLOGY=8
 
 | Negative Value | (0) Positive Value |
 |--------|-------|
-| ![Before](https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/blob/main/QOLPictures/mnsvleesbsckinfte1.jpg) | ![After](https://github.com/KowabungaOfficial/Linux-Game-Fix-Index/blob/main/QOLPictures/zerobshckifinte1.jpg) |
+| ![Before](https://github.com/KowabungaOfficial/Linux-Proton-Game-Fixes/blob/main/QOLPictures/mnsvleesbsckinfte1.jpg) | ![After](https://github.com/KowabungaOfficial/Linux-Proton-Game-Fixes/blob/main/QOLPictures/zerobshckifinte1.jpg) |
 
 ---------------------------------------------------------------
 ### Spider-Man: Web Of Shadows [Crash Fix and FPS Fix]
