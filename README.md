@@ -17,6 +17,9 @@
 > [!IMPORTANT]
 > **Steam Proton Lag/Stutter/FPS Drop Fix (Lag/Stutter/FPS Drop Caused When Moving Mouse After 20-40 Minutes)**
 > 
+> Mentioned Here:
+> [ValveSoftware](https://github.com/ValveSoftware/steam-for-linux/issues/11446#issuecomment-2467785054)
+> 
 > Add `LD_PRELOAD="" %command%` to all games in the launch options 
 
 ### Vampyr [FPS, QOL, and High Core Count CPU Crash Fix]
