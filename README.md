@@ -67,7 +67,7 @@ PROTON_CPU_TOPOLOGY=8
 ----------------------------------------------------------------
 ### Ultimate Spider-Man [FPS, FOV, PS5 Control Scheme, and Widescreen Fix]
 
-1. Download & Drag Contents to game folder: <a href="https://github.com/ThirteenAG/WidescreenFixesPack/releases">ThirteenAG Widescreen Fix Mod</a>
+1. Download & Drag Contents to game folder: <a href="https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/usm">ThirteenAG Widescreen Fix Mod</a>
 <a href="https://github.com/KowabungaOfficial/Linux-Proton-Game-Fixes/releases/download/GameModBackups/UltimateSpiderManWidescreenFixModBackup.tar.gz">`(Backup)`</a>
 
 2. Play game in Heroic or Lutris, change settings to what you prefer then exit game
