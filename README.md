@@ -3,11 +3,13 @@
 > [!IMPORTANT] 
 > **Config File Locations Are As Listed**
 >
-> <details><summary>Game Launcher Config Location</summary>_Heroic Config Location (For Stuff like Engine.ini etc):_
+> <details><summary>Game Launcher Config Location</summary>
+>
+> Heroic Config Location (For Stuff like Engine.ini etc):
 >
 > `/home/"YOUR USERNAME GOES HERE"/Games/Heroic/Prefixes/default/"Name Of Game"/pfx/drive_c/users/steamuser/`
 > 
-> _Steam Config Location (For Stuff like Engine.ini etc):_
+> Steam Config Location (For Stuff like Engine.ini etc):
 >
 > `/SteamLibrary/steamapps/compatdata/"The Games ID Number"/pfx/drive_c/users/steamuser/`
 </details>
