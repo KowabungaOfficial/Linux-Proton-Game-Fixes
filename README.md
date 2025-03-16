@@ -2,14 +2,20 @@
 
 > [!IMPORTANT] 
 > **Config File Locations Are As Listed**
-> 
-> _Heroic Config Location (For Stuff like Engine.ini etc):_
+>
+> <details><summary>Game Launcher Config Location</summary>_Heroic Config Location (For Stuff like Engine.ini etc):_
 >
 > `/home/"YOUR USERNAME GOES HERE"/Games/Heroic/Prefixes/default/"Name Of Game"/pfx/drive_c/users/steamuser/`
->
+> 
 > _Steam Config Location (For Stuff like Engine.ini etc):_
 >
 > `/SteamLibrary/steamapps/compatdata/"The Games ID Number"/pfx/drive_c/users/steamuser/`
+</details>
+
+> [!IMPORTANT]
+> **Steam Proton Lag/Stutter/FPS Drop Fix (Mouse Movement Causes This After 20-40 Minutes)**
+> 
+> Add `LD_PRELOAD="" %command%` to all games in the launch options 
 
 ### Vampyr [FPS, QOL, and High Core Count CPU Crash Fix]
 
