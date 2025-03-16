@@ -15,7 +15,9 @@
 </details>
 
 > [!IMPORTANT]
-> **Steam Proton Lag/Stutter/FPS Drop Fix (Lag/Stutter/FPS Drop Caused When Moving Mouse After 20-40 Minutes)**
+> **Steam Proton Lag/Stutter/FPS Drop Fix**
+>
+> **(Lag/Stutter/FPS Drop Caused When Moving Mouse After 20-40 Minutes)**
 > 
 > Add `LD_PRELOAD="" %command%` to all games in the launch options
 >
