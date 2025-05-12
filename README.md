@@ -153,6 +153,21 @@ PROTON_CPU_TOPOLOGY=4
 ```
 
 ---------------------------------------------------------------
+### Xenia Manager (Xenia Canary) [Black Screen Fix] Gears Of War 2, 3, Judgement
+
+1. In linux command line paste this and hit enter:
+```
+sudo sysctl net.ipv4.ip_unprivileged_port_start=0
+```
+
+2. Go inside your xenia folder and open xenia-canary.config.toml.file
+Find the line that says lunch_module=""
+Input default_mp.xex in between "" marks and save
+
+Example: lunch_module="default_mp.xex"
+
+
+---------------------------------------------------------------
 
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
 
