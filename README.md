@@ -172,9 +172,11 @@ Example: lunch_module="default_mp.xex"
 ---------------------------------------------------------------
 ### Xenia Manager (Xenia Canary) [Graphics Device Lost Fix] Gears Of War 2, 3, Judgement, & More
 
-1. Set "Readback Resolve" to on
-2. Set "Scribble Heap" to on
-3. Make sure "Break On Unimplemented Instructions" is set to off
+1. Set "Scribble Heap" to on
+2. Make sure "Break On Unimplemented Instructions" is set to off
+
+If All Else Fails: Set "Readback Resolve" to on
+This will impact performance though
 
 ---------------------------------------------------------------
 
