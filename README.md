@@ -166,6 +166,9 @@ Input default_mp.xex in between "" marks and save
 
 Example: lunch_module="default_mp.xex"
 
+> [!IMPORTANT]
+> Number 1 Has To Be Done Everytime The Kernel Is Updated
+
 ---------------------------------------------------------------
 ### Xenia Manager (Xenia Canary) [Graphics Device Lost Fix] Gears Of War 2, 3, Judgement, & More
 
