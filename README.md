@@ -167,9 +167,9 @@ Input default_mp.xex in between "" marks and save
 Example: lunch_module="default_mp.xex"
 
 ---------------------------------------------------------------
-### Xenia Manager (Xenia Canary) [Graphics Device Lost Fix] Gears Of War 2, 3, Judgement
+### Xenia Manager (Xenia Canary) [Graphics Device Lost Fix] Gears Of War 2, 3, Judgement, & More
 
-1. Enable "Read Back Resolve" for each game, or enable for all games
+1. Enable "Scribble Heap" for each game, or enable for all games
 
 ---------------------------------------------------------------
 
