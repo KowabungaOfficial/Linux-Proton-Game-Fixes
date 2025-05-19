@@ -175,9 +175,11 @@ Example: lunch_module="default_mp.xex"
 1. Set "Scribble Heap" to on
 2. Make sure "Break On Unimplemented Instructions" is set to off
 
-If All Else Fails: Set "Readback Resolve" to on
+```
+If All Else Fails:
+Set "Readback Resolve" to on
 This will impact performance though
-
+```
 ---------------------------------------------------------------
 
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
