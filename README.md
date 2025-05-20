@@ -170,7 +170,7 @@ Example: lunch_module="default_mp.xex"
 > Number 1 Has To Be Done Everytime The Kernel Is Updated and Everytime your computer is restarted
 
 ---------------------------------------------------------------
-### Xenia Manager (Xenia Canary) [Graphics Device Lost Fix] Gears Of War 2, 3, Judgement, & More
+### Xenia Manager (Xenia Canary) [Graphics Device Lost Fix] & [Crashing Fix] Gears Of War 2, 3, Judgement, & More
 1. Set "Queue Priority" to Normal
 2. Set "Clear GPU Cache" to on
 3. Set "Scribble Heap" to on
