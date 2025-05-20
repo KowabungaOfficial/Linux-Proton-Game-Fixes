@@ -172,8 +172,9 @@ Example: lunch_module="default_mp.xex"
 ---------------------------------------------------------------
 ### Xenia Manager (Xenia Canary) [Graphics Device Lost Fix] Gears Of War 2, 3, Judgement, & More
 1. Set "Queue Priority" to Normal
-2. Set "Scribble Heap" to on
-3. Make sure "Break On Unimplemented Instructions" is set to off
+2. Set "Clear GPU Cache" to on
+3. Set "Scribble Heap" to on
+4. Make sure "Break On Unimplemented Instructions" is set to off
 
 ```
 If All Else Fails:
