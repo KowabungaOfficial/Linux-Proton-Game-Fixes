@@ -170,9 +170,10 @@ Example: lunch_module="default_mp.xex"
 > Number 1 Has To Be Done Everytime The Kernel Is Updated and Everytime your computer is restarted
 
 ---------------------------------------------------------------
-### Xenia Manager (Xenia Canary) [Graphics Device Lost Fix] & [Crashing Fix] Gears Of War 2, 3, Judgement, & More
-1. Set "Queue Priority" to Realtime
-2. Make sure "Break On Unimplemented Instructions" is set to on
+### Xenia Manager (Xenia Canary) [Graphics Device Lost Fix] & [Crash Fix] Gears Of War 2, 3, Judgement, & More
+1. Set "Queue Priority (Direct3D 12)" to Normal
+2. Make sure "Protect Zero Page" is set to on
+3. Make sure "Break On Unimplemented Instructions" is set to on
 
 ```
 If All Else Fails:
