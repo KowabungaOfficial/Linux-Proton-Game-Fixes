@@ -1,6 +1,6 @@
 # Linux Proton Game Fixes
 
-> [!IMPORTANT] 
+> [!TIP] 
 > **Config File Locations**
 >
 > <details><summary>Game Launcher Config Location</summary>
@@ -14,7 +14,7 @@
 > `/SteamLibrary/steamapps/compatdata/"THE GAMES ID NUMBER GOES HERE"/pfx/drive_c/users/steamuser/`
 </details>
 
-> [!IMPORTANT]
+> [!TIP]
 > **Steam Proton Lag/Stutter/FPS Drop Fix**
 >
 > **(Lag/Stutter/FPS Drop Caused When Moving Mouse After 20-40 Minutes)**
