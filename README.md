@@ -175,11 +175,20 @@ Example: lunch_module="default_mp.xex"
 2. Make sure "Protect Zero Page" is set to on
 3. Make sure "Break On Unimplemented Instructions" is set to on
 
-```
-If All Else Fails:
-Set "Readback Resolve" to on
-This will impact performance though
-```
+
+> [!IMPORTANT]
+> If All Else Fails Then Set This As Well:
+> 
+> Set "Clear GPU Cache" to on
+
+
+> [!CAUTION]
+> Last Resort:
+> 
+> Set "Readback Resolve" to on
+>
+> This will impact performance
+
 ---------------------------------------------------------------
 
 Work in progess, will update soon :) Fallout 3, Fallout New Vegas, and more properly running at high fps on linux.
